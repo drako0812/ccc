@@ -1,0 +1,11 @@
+☐ Finish adding .is_const support to expressions.
+☐ When detecting constant expression pre-calculate values.
+☐ Add variables so we can start doing actual programming.
+☐ Add control flow statements
+☐ Add other literal variants
+☐ Add other data types
+☐ Add structs
+☐ Add any missing statements
+☐ Handle preprocessor junk
+☐ Handle libraries?
+
